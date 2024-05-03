@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Full Stack Web Developer. Actively looking for a role in IT industry.\
+💡 &nbsp;I am a Full Stack Web Developer who has over 10 years experience. Actively looking for a role in IT industry.\
 🎓 &nbsp;I graduated fromUniversidad de Guadalajara, Bachelor of Applied Science (BASc), Computer science.\
 ✍️ &nbsp;In my free time, I spend time with my family and go on for long walks.\
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.\
